@@ -1,10 +1,10 @@
 ''' Important! Please read below
-Not all code was made by me (Vijay Kethanaboyina)
-Some of the functions that access Wikidata API were made with ChatGPT
+
 Make sure you install the necessary dependencies before running (pip install wikidataintegrator)
 The erase_png function has a bug in it. See comments below
+Not all code was made by me (Vijay Kethanaboyina). Some of the functions that access Wikidata API were made with ChatGPT
 
-Make sure you replace the username/password variables
+Make sure you replace the username/password variables!
 '''
 
 # Delete the below lines and replace them with your own username / password
